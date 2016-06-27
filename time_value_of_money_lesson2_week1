@@ -1,0 +1,58 @@
+# Notes from Week 1 of Time Value of Money from Introduction to Finance Specialisation of University of Michigan on Coursera
+
+A. Time Value Of Money (TVM)
+============================
+
+1. Finance is the study of value.
+
+2. Value has two important key components, time and uncertainty.
+
+3. Every decision involves time and uncertainty.
+
+4. Importsnt to understand the impact of just passage of time on a decision.
+
+5. QUE: What does the instructor means by "We will first assume no uncertainty to internalise the time value of money"?
+
+6. Terminology:
+
+	PV = Present Value ($)
+
+	FV = Future Value ($)
+
+	n = # of Periods (#)
+
+	r = Interest Rate (%) > 0 (assumption)
+
+7. Theory of Interest - Irving Fisher (1930) - READ
+
+B. Simple Future Value (FV)
+============================
+
+8. TIME LINES
+
+9. A dollar today is worth more than a dollar tomorrow.
+
+10. MONEY CANNOT BE COMPARED ACROSS TIME. IT WOULD HAPPEN ONLY WHEN MONEY DID NOT HAVE VALUE.
+
+11. Every value creating decision that we make, should force us to look into the future.
+
+12. In general, Future Value = Initial Payment + Accumulated Interest.
+	
+	FV = PV + r*P = (1 + r)PV
+
+	(1 + r) is called "Future Value Factor". It tells the future value of one dollar.
+
+13. Is it compunding?
+
+14. For n periods:
+
+	FV = PV * (1 + r) ^ n
+
+C. Simple Present Value
+==========================
+
+15. PV = FV / (1 + r) ^ n (For period of "n")
+
+16. DISCOUNTING: Because larger in the future, becomes smaller today (If r > 0) .
+
+17. 
